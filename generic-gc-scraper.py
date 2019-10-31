@@ -3,13 +3,35 @@ import urllib.request
 import re
 import locale
 from colorama import Fore, Style
+import hashlib
+from pathlib import Path
+import sys
+import getopt
 
 HIGHLIGHT = '\033[95m'
 NORMAL = '\033[0m'
 
 httpHeaders = {
-    'User-Agent': 'graphics-card-prices'
+    'User-Agent': 'Mozilla/5.0 (Android 8.0; Mobile; rv:62.0) Gecko/62.0 Firefox/62.0'
 }
+
+useCache = True
+
+def makeCacheableHttpCall(request):
+    responseContent = ''
+    urlhash = hashlib.md5(request.full_url.encode("utf-8")).hexdigest()
+    posthash = ''
+    if request.data is not None:
+        posthash = hashlib.md5(request.data).hexdigest()
+    pageId = urlhash + posthash
+    # get from cache
+    cachedFile = Path(f'cache/{pageId}')
+    if useCache and cachedFile.is_file():
+        responseContent = cachedFile.read_bytes()
+    else:
+        responseContent = urllib.request.urlopen(request).read()
+        cachedFile.write_bytes(responseContent)
+    return responseContent
 
 gpuTypes = [
     { 'name': "GT 710" },
@@ -23,15 +45,17 @@ gpuTypes = [
     { 'name': "GTX 1070" },
     { 'name': "GTX 1080 Ti" },
     { 'name': "GTX 1080" },
-    { 'name': "GTX 1650", 'alternativeMatches': [" 1650"]  },
-    { 'name': "GTX 1660 Ti" },
-    { 'name': "GTX 1660", 'alternativeMatches': [" 1660"] },
+    { 'name': "GTX 1650 Super", 'alternativeRegex': [ re.compile(r"GTX.*1650\sSuper", re.IGNORECASE)]},
+    { 'name': "GTX 1650", 'alternativeRegex': [ re.compile(r"GTX.*1650", re.IGNORECASE)]},
+    { 'name': "GTX 1660 Ti" , 'alternativeRegex': [ re.compile(r"GTX.*1660.*\sTi\s", re.IGNORECASE)]},
+    { 'name': "GTX 1660 Super", 'alternativeRegex': [ re.compile(r"GTX.*1660\sSuper", re.IGNORECASE)]},
+    { 'name': "GTX 1660", 'alternativeRegex': [ re.compile(r"GTX.*1660", re.IGNORECASE)] },
     { 'name': "RTX 2060 Ti" },
-    { 'name': "RTX 2060 Super", 'alternativeMatches': [" 2060 Super"] },
-    { 'name': "RTX 2060", 'alternativeMatches': [" 2060"] },
-    { 'name': "RTX 2070 Ti" },
-    { 'name': "RTX 2070 Super" },
-    { 'name': "RTX 2070" },
+    { 'name': "RTX 2060 Super", 'alternativeRegex': [ re.compile(r"RTX.*2060\sSuper", re.IGNORECASE)]},
+    { 'name': "RTX 2060", 'alternativeRegex': [ re.compile(r"RTX.*2060", re.IGNORECASE)]},
+    { 'name': "RTX 2070 Ti", 'alternativeRegex': [ re.compile(r"RTX.*2070.*\sTi\s", re.IGNORECASE)] },
+    { 'name': "RTX 2070 Super", 'alternativeRegex': [ re.compile(r"RTX.*2070\sSuper", re.IGNORECASE)] },
+    { 'name': "RTX 2070", 'alternativeRegex': [ re.compile(r"RTX.*2070", re.IGNORECASE)] },
     { 'name': "RTX 2080 Ti" },
     { 'name': "RTX 2080 Super" },
     { 'name': "RTX 2080" },
@@ -59,8 +83,9 @@ gpuTypes = [
 
 preferredGpuTypes = [
     'GTX 1660 Ti',
+    'GTX 1660 Super',
     'GTX 1660',
-    'GTX 1650',
+    'GTX 1650'
 ]
 
 gpuPriceRanges = {}
@@ -76,6 +101,10 @@ def extractGPUType(gpuName):
         if 'alternativeMatches' in gpuType:
             for alternative in gpuType['alternativeMatches']:
                 if makeComparable(alternative) in makeComparable(gpuName):
+                    return gpuType['name']
+        if 'alternativeRegex' in gpuType:
+            for regex in gpuType['alternativeRegex']:
+                if regex.search(gpuName) is not None:
                     return gpuType['name']
     return "Uncategorized"
 
@@ -124,7 +153,7 @@ def extractPrice(product, site, selector):
 
 def getPageCount(site):
     url = sitePropertyMap[site]['firstPageURL']
-    content = urllib.request.urlopen(urllib.request.Request(url, headers=httpHeaders)).read()
+    content = makeCacheableHttpCall(urllib.request.Request(url, headers=httpHeaders))
     page = BeautifulSoup(content, features="lxml")
     pageLinks = page.select(sitePropertyMap[site]['selectors']['pageLinks'])
     return sitePropertyMap[site]['pageCountFunction'](pageLinks)
@@ -167,7 +196,7 @@ def getPageCountInPrimeAbgb(pageLinks):
             pass
     return lastPage
 
-def getPageCountInVedanta(pageLinks):
+def getPageCountInVedant(pageLinks):
     lastPage = 1
     for link in pageLinks:
         queryParams = link['href'].split('?')[1].split('&')
@@ -182,16 +211,16 @@ def getPageCountInVedanta(pageLinks):
 
 #findProductsInPage(content)
 
-def callPage(pageNo, site):
-    return sitePropertyMap[site]['callPageFunction'](pageNo, site)
+def callPage(pageNo, site, lastPage):
+    return sitePropertyMap[site]['callPageFunction'](pageNo, site, lastPage)
 
-def makeGetCall(pageNo, site):
+def makeGetCall(pageNo, site, lastPage):
     paginatedURLTemplate = sitePropertyMap[site]['paginatedURLTemplate']
     url = paginatedURLTemplate.format(pageNo)
-    paginatedContent = urllib.request.urlopen(urllib.request.Request(url, headers=httpHeaders)).read()
+    paginatedContent = makeCacheableHttpCall(urllib.request.Request(url, headers=httpHeaders))
     return paginatedContent
 
-def callPageInITDepot(pageNo, site):
+def callPageInITDepot(pageNo, site, lastPage):
     paginatedURL = "https://www.theitdepot.com/category_filter.php"
 
     postAttributes = { 'categoryname' : 'Graphic+Cards',
@@ -207,7 +236,7 @@ def callPageInITDepot(pageNo, site):
     'btotal' : '9',
     'pageno' : pageNo,
     'fftotal' : '',
-    'total_pages' : '8',
+    'total_pages' : lastPage,
     'PageScrollProcess' : 'No',
     'PageFinished' : 'No',
     'price_range' : '2208,121455',
@@ -221,7 +250,7 @@ def callPageInITDepot(pageNo, site):
     postData = urllib.parse.urlencode(postAttributes)
     postData = postData.encode("utf-8")
 
-    paginatedContent = urllib.request.urlopen(urllib.request.Request(paginatedURL, data=postData, headers=httpHeaders)).read()
+    paginatedContent = makeCacheableHttpCall(urllib.request.Request(paginatedURL, data=postData, headers=httpHeaders))
     return paginatedContent
 
 sitePropertyMap = {
@@ -263,9 +292,9 @@ sitePropertyMap = {
             'productPrice': '.product-innfo .price ins .amount'
         }
     },
-    'VedantaComp': {
-        'name': 'Vedanta Computers',
-        'pageCountFunction': getPageCountInVedanta,
+    'VedantComp': {
+        'name': 'Vedant Computers',
+        'pageCountFunction': getPageCountInVedant,
         'firstPageURL': "https://www.vedantcomputers.com/index.php?route=module/journal2_super_filter/products&module_id=282&filters=%2Favailability%3D1%2Fsort%3Dp.price%2Forder%3DASC%2Flimit%3D50&oc_route=product%2Fcategory&path=65&full_path=96_65&manufacturer_id=&search=&tag=",
         'paginatedURLTemplate': "https://www.vedantcomputers.com/index.php?route=module/journal2_super_filter/products&module_id=282&filters=availability%3D1%2Fsort%3Dp.price%2Forder%3DASC%2Flimit%3D50%2Fpage%3D{:d}&oc_route=product%2Fcategory&path=65&full_path=96_65&manufacturer_id=&search=&tag=",
         'callPageFunction': makeGetCall,
@@ -279,23 +308,57 @@ sitePropertyMap = {
     }
 }
 
-# lastPage = getPageCount('VedantaComp')
+# lastPage = getPageCount('VedantComp')
 
 # for pageNo in range(1, lastPage+1):
-#     paginatedContent = callPage(pageNo, 'VedantaComp')
-#     findProductsInPage(paginatedContent, 'VedantaComp')
+#     paginatedContent = callPage(pageNo, 'VedantComp')
+#     findProductsInPage(paginatedContent, 'VedantComp')
+
+try:
+    options, args = getopt.getopt(sys.argv[1:], "c", ["cache="])
+    for name, value in options:
+        if name in ('-c', '--cache'):
+            if value == 'false':
+                useCache = False
+except getopt.GetoptError as err:
+    # print help information and exit:
+    print(err) # will print something like "option -a not recognized"
 
 for site in sitePropertyMap:
-    lastPage = getPageCount(site)
+    try:
+        lastPage = getPageCount(site)
 
-    for pageNo in range(1, lastPage+1):
-        paginatedContent = callPage(pageNo, site)
-        findProductsInPage(paginatedContent, site)
+        for pageNo in range(1, lastPage+1):
+            paginatedContent = callPage(pageNo, site, lastPage)
+            findProductsInPage(paginatedContent, site)
+    except:
+        print("Got error while parsing {:s}".format(site['name']))
+
+textToHighlight = [
+    {'text': 'Super', 'style': Style.BRIGHT + Fore.BLUE},
+    {'text': ' Ti ', 'pattern': r'\sTi\s', 'style': Style.BRIGHT + Fore.BLUE},
+    {'text': ' Ex ', 'pattern': r'\sEx\s', 'style': Fore.YELLOW},
+]
+
+def highlightSomeText(text):
+    highlightedText = text
+    lengthBeforeHighlight = len(highlightedText)
+    padding = 0
+    for text in textToHighlight:
+        pattern = text['text']
+        if 'pattern' in text:
+            pattern = text['pattern']
+        highlightedText = re.sub(pattern, text['style'] + text['text'] + Style.RESET_ALL, highlightedText, flags=re.IGNORECASE)
+    lengthAfterHighlight = len(highlightedText)
+    padding += lengthAfterHighlight - lengthBeforeHighlight
+    return highlightedText, padding
 
 for gpuType in sorted(prices):
     print(gpuType)
     for line in sorted(prices[gpuType], key = lambda k: k['price']):
-        print("\t {:<70s}: Rs {:8,.0f} - {:s}".format(line['name'].strip()[:70], line['price'], line['site']))
+        (hText, hPadding) = highlightSomeText(line['name'].strip()[:70])
+        nameWidth = 70 + hPadding
+        print("\t {:<{nameWidth}s}: Rs {:8,.0f} - {:s}".format(hText.strip()[:(nameWidth)], line['price'], line['site'], nameWidth=nameWidth))
 
 print()
 
@@ -306,3 +369,5 @@ for gpu in sorted(gpuPriceRanges):
     print(template.format(
         gpu, gpuPriceRanges[gpu]['minPrice'], gpuPriceRanges[gpu]['maxPrice'])
         )
+
+print(f'\nuseCache was {useCache}')
