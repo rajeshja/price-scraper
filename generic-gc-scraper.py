@@ -12,7 +12,7 @@ HIGHLIGHT = '\033[95m'
 NORMAL = '\033[0m'
 
 httpHeaders = {
-    'User-Agent': 'Mozilla/5.0 (Android 8.0; Mobile; rv:62.0) Gecko/62.0 Firefox/62.0'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/70.0'
 }
 
 useCache = True
