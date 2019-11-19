@@ -136,7 +136,8 @@ gpuTypes = [
     { 'name': "P620" },
     { 'name': "K420" },
     { 'name': "W5100" },
-    { 'name': "NVS510" }
+    { 'name': "NVS510" },
+    { 'name': "NVIDIA Tesla" }
 ]
 
 preferredGpuTypes = [
