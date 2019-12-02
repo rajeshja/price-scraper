@@ -4,7 +4,6 @@ GT 1030
          INNO3D GeForce GT 1030 2GB GDDR5 Graphic Card                         : Rs    5,512 - Prime ABGB
          Colorful GeForce GT 1030 2GB GDDR5 64-bit Gaming Graphics Card        : Rs    5,600 - MD Computers
          Zotac Geforce GT 1030 2GB GDDR5 Graphic Card (ZT-P10300A-10L)         : Rs    5,615 - IT Depot
-         Inno3d GeForce Pascal Series GT 1030 0Db 2GB GDDR5 64-bit Gaming Graph: Rs    5,670 - MD Computers
          Zotac Graphics Card Pascal Series GT 1030 2GB GDDR5 (ZT-P10300A-10L)  : Rs    5,799 - MD Computers
          ZOTAC GEFORCE GT1030 2GB GDDR5                                        : Rs    5,850 - Vedant Computers
          GALAX GeForce GT 1030 EXOC White 2GB GDDR5 64-bit Graphic Card 30NPH4H: Rs    5,899 - Prime ABGB
@@ -16,8 +15,8 @@ GT 710
          GALAX GEFORCE GT 710 PASSIVE 2GB DDR3 64-bit Graphic Card 71GPF4HI00GX: Rs    2,574 - Prime ABGB
          Colorful GeForce GT 710 2GB DDR3 64-bit Gaming Graphics Card          : Rs    2,699 - MD Computers
          Inno3d GeForce GT 710 2GB DDR3 64-bit Gaming Graphics Card            : Rs    2,699 - MD Computers
+         Zotac Geforce GT710 2GB DDR3 NVidia PCI E Graphic Card (ZT-71310-10L) : Rs    2,755 - IT Depot
          Zotac Graphics Card GT 710 2GB DDR3 (ZT-71310-10L)                    : Rs    2,799 - MD Computers
-         Zotac Geforce GT710 2GB DDR3 NVidia PCI E Graphic Card (ZT-71310-10L) : Rs    2,805 - IT Depot
          Colorful Geforce GT 710 2GB DDR3 (CLFGT7102GD3)                       : Rs    2,845 - IT Depot
          INNO3D GeForce GT710 2GB SDDR3 Graphic Card                           : Rs    2,850 - Prime ABGB
          ZOTAC GEFORCE GT 710 2GB DDR3                                         : Rs    2,850 - Vedant Computers
@@ -30,11 +29,11 @@ GT 730
 GTX 1050 Ti
          Palit GeForce GTX 1050 Ti StormX 4GB GDDR5 128-bit Graphics Card      : Rs    8,499 - MD Computers
          GALAX GeForce GTX 1050 Ti (1-Click OC) 128-bit DDR5 Graphic Card 50IQH: Rs    9,776 - Prime ABGB
-         Zotac Geforce GTX 1050 Ti OC Edition 4GB GDDR5 Graphic Card......     : Rs   10,045 - IT Depot
+         Zotac Geforce GTX 1050 Ti OC Edition 4GB GDDR5 Graphic Card......     : Rs    9,990 - IT Depot
+         ASUS GEFORCE GTX 1050 Ti OC LOW PROFILE 4GB GDDR5                     : Rs    9,999 - Vedant Computers
          ZOTAC GTX 1050 Ti Mini 4GB Graphic Card ZT-P10510A-10L                : Rs   10,200 - Prime ABGB
          Colorful GeForce GTX 1050 Ti 4GB GDDR5 128-bit Gaming Graphics Card   : Rs   10,299 - MD Computers
          Gigabyte GeForce GTX 1050 Ti D5 4G Graphic Card GV-N105TD5-4GD        : Rs   10,444 - Prime ABGB
-         ASUS GEFORCE GTX 1050 Ti OC LOW PROFILE 4GB GDDR5                     : Rs   10,499 - Vedant Computers
          INNO3D GEFORCE GTX 1050 Ti X2 4GB GDDR5                               : Rs   10,500 - Vedant Computers
          MSI GEFORCE GTX 1050 Ti 4GT OCV1 GDDR5                                : Rs   10,850 - Vedant Computers
          ZOTAC GEFORCE GTX 1050 Ti OC EDITION 4GB GDDR5                        : Rs   10,950 - Vedant Computers
@@ -79,8 +78,8 @@ GTX 1650
          GALAX GeForce GTX 1650 Ex (1-Click OC) 4GB GDDR5 (65SQH8DS08EX)       : Rs   11,125 - IT Depot
          ZOTAC GAMING GeForce GTX 1650 OC 4GB GDDR5 128-bit Gaming Graphics Car: Rs   11,375 - MD Computers
          ZOTAC GAMING GEFORCE GTX 1650 OC 4GB GDDR5                            : Rs   11,395 - Vedant Computers
-         Zotac GAMING Geforce GTX 1650 4GB GDDR5 (ZT-T16500F-10L)              : Rs   11,435 - IT Depot
          Inno3d GeForce GTX 1650 Compact 4GB GDDR5 128-bit Gaming Graphics Card: Rs   11,500 - MD Computers
+         Zotac GAMING Geforce GTX 1650 4GB GDDR5 (ZT-T16500F-10L)              : Rs   11,590 - IT Depot
          Inno3D Geforce GTX 1650 TWIN X2 OC 4GB GDDR5                          : Rs   11,600 - IT Depot
          INNO3D GEFORCE GTX 1650 COMPACT 4GB Graphic Card N16501-04D5-1510VA19 : Rs   11,700 - Prime ABGB
          MSI GeForce GTX 1650 VENTUS XS 4G OC GDDR6                            : Rs   11,795 - IT Depot
@@ -92,8 +91,8 @@ GTX 1650
          MSI GeForce GTX 1650 VENTUS XS 4G OC Graphic Card                     : Rs   12,199 - Prime ABGB
          Gigabyte GeForce GTX 1650 OC 4GB GDDR5 128-bit Gaming Graphics Card   : Rs   12,200 - MD Computers
          GALAX GEFORCE GTX 1650 Ex 1 CLICK OC 4GB GDDR5                        : Rs   12,200 - Vedant Computers
+         Zotac GAMING Geforce GTX 1650 AMP Edition 4GB GDDR5 (ZT-T16500D-10L)  : Rs   12,255 - IT Depot
          GIGABYTE GEFORCE GTX 1650 OC 4GB GDDR5                                : Rs   12,299 - Vedant Computers
-         Zotac GAMING Geforce GTX 1650 AMP Edition 4GB GDDR5 (ZT-T16500D-10L)  : Rs   12,360 - IT Depot
          ZOTAC GAMING GeForce GTX 1650 AMP 4GB GDDR5 128-bit Gaming Graphics Ca: Rs   12,399 - MD Computers
          ASUS GeForce GTX 1650 4GB DUAL OC Graphic Card DUAL-GTX1650-O4G       : Rs   12,399 - Prime ABGB
          ZOTAC GAMING GEFORCE GTX 1650 AMP 4GB GDDR5                           : Rs   12,499 - Vedant Computers
@@ -113,16 +112,17 @@ GTX 1650
          ASUS GEFORCE GTX DUAL 1650 OC 4GB GDDR5                               : Rs   14,900 - Vedant Computers
          Asus ROG Strix GeForce GTX 1650 4GB GDDR5......                       : Rs   15,615 - IT Depot
 GTX 1660
-         Zotac Gaming GeForce GTX 1660 6GB GDDR5 192-bit Gaming Graphics Card, : Rs   16,199 - MD Computers
          GALAX GeForce GTX 1660 6GB 1-Click OC Graphic Card 60SRH7DSY91C       : Rs   16,328 - Prime ABGB
          INNO3D GEFORCE GTX 1660 TWIN X2 GDDR5                                 : Rs   16,390 - Vedant Computers
          INNO3D GeForce GTX 1660 Twin X2 Gaming Graphics Card N16602-06D5-1510V: Rs   16,430 - Prime ABGB
+         Zotac GAMING Geforce GTX 1660 6GB GDDR5 (ZT-T16600F-10L)              : Rs   16,480 - IT Depot
          GALAX GeForce GTX 1660 (1-Click OC) 6GB GDDR5 (60SRH7DSY91C)          : Rs   16,480 - IT Depot
-         Zotac GAMING Geforce GTX 1660 6GB GDDR5 (ZT-T16600F-10L)              : Rs   16,995 - IT Depot
-         ZOTAC GAMING GEFORCE GTX 1660 6GB GDDR5                               : Rs   17,300 - Vedant Computers
+         Zotac Gaming GeForce GTX 1660 6GB GDDR5 192-bit Gaming Graphics Card, : Rs   16,900 - MD Computers
+         ZOTAC GAMING GEFORCE GTX 1660 6GB GDDR5                               : Rs   16,900 - Vedant Computers
          Asus GeForce GTX 1660 TUF Gaming OC 6GB GDDR5 192-bit Gaming Graphics : Rs   17,500 - MD Computers
          MSI GeForce GTX 1660 VENTUS XS 6G OC GDDR6                            : Rs   17,575 - IT Depot
          MSI GEFORCE GTX 1660 VENTUS XS 6GB OC GDDR5                           : Rs   17,750 - Vedant Computers
+         Zotac Gaming GeForce GTX 1660 6GB GDDR5 192-bit Gaming Graphics Card, : Rs   17,889 - MD Computers
          ZOTAC GAMING GeForce GTX 6GB 1660 Graphic Card ZT-T16600F-10L         : Rs   18,300 - Prime ABGB
          Zotac GAMING Geforce GTX 1660 AMP Edition 6GB GDDR5 (ZT-T16600D-10M)  : Rs   18,540 - IT Depot
          Gigabyte GeForce GTX 1660 OC 6G Gaming Graphic Card GV-N1660OC-6GD    : Rs   18,800 - Prime ABGB
@@ -135,6 +135,7 @@ GTX 1660 Super
          INNO3D GEFORCE GTX 1660 Super TWIN X2 6GB GDDR6 192-bit Graphic Card N: Rs   18,762 - Prime ABGB
          Inno3d GeForce GTX 1660 Super Twin X2 6GB GDDR6 192-bit Gaming Graphic: Rs   18,999 - MD Computers
          INNO3D GEFORCE GTX 1660 Super TWIN X2 6GB GDDR6                       : Rs   19,400 - Vedant Computers
+         Zotac GAMING GeForce GTX 1660 Super Twin Fan 6GB GDDR6......          : Rs   19,570 - IT Depot
          INNO3D GEFORCE GTX 1660 Super TWIN X2 OC RGB 6GB GDDR6 192-bit Graphic: Rs   19,610 - Prime ABGB
          Galax GeForce GTX 1660 Super (1-Click OC) 6GB GDDR6 192-bit Gaming Gra: Rs   19,699 - MD Computers
          Inno3d GeForce GTX 1660 Super Twin X2 OC RGB 6GB GDDR6 192-bit Gaming : Rs   19,699 - MD Computers
@@ -142,14 +143,13 @@ GTX 1660 Super
          ZOTAC GAMING GeForce GTX 1660 Super Twin Fan 6GB GDDR6 192-bit Gaming : Rs   19,700 - Prime ABGB
          Gigabyte GeForce GTX 1660 Super OC 6G Graphic Card                    : Rs   19,902 - Prime ABGB
          ZOTAC GAMING GeForce GTX 1660 Super Twin Fan 6GB GDDR6 192-bit Gaming : Rs   19,999 - MD Computers
+         ASUS GEFORCE TUF GAMING X3 GTX 1660 Super ADVANCED EDITION 6GB GDDR6  : Rs   19,999 - Vedant Computers
          GALAX GeForce GTX 1660 Super 1-Click OC 6GB GDDR6                     : Rs   20,000 - IT Depot
          MSI GEFORCE GTX 1660 Super VENTUS XS 6GB OC GDDR6                     : Rs   20,200 - Vedant Computers
          Inno3D Geforce GTX 1660 Super Twin X2 6GB GDDR6......                 : Rs   20,500 - IT Depot
-         Msi GeForce GTX 1660 Super Ventus XS OC 6GB GDDR6 192-bit Gaming Graph: Rs   20,500 - MD Computers
          ZOTAC GAMING GEFORCE GTX 1660 Super 6GB GDDR6                         : Rs   20,500 - Vedant Computers
-         ASUS GEFORCE TUF GAMING X3 GTX 1660 Super ADVANCED EDITION 6GB GDDR6  : Rs   20,999 - Vedant Computers
          Inno3D Geforce GTX 1660 Super Twin X2 OC RGB 6GB GDDR6......          : Rs   21,000 - IT Depot
-         Zotac GAMING GeForce GTX 1660 Super Twin Fan 6GB GDDR6......          : Rs   21,390 - IT Depot
+         ZOTAC GAMING GeForce GTX 1660 Super AMP 6GB GDDR6 192-bit Gaming Graph: Rs   21,499 - MD Computers
          MSI GeForce GTX 1660 Super VENTUS XS 6GB GDDR6 192-bit Graphic Card   : Rs   21,600 - Prime ABGB
          MSI GeForce GTX 1660 Super VENTUS XS 6GB OC GDDR6                     : Rs   21,900 - IT Depot
          ZOTAC GAMING GEFORCE GTX 1660 Super AMP 6GB GDDR6                     : Rs   22,270 - Vedant Computers
@@ -164,12 +164,15 @@ GTX 1660 Super
 GTX 1660 Ti
          INNO3D GTX 1660 Ti Twin X2 DDR6 Graphic Card N166T2-06D6-1710VA15     : Rs   20,882 - Prime ABGB
          Inno3d GeForce GTX 1660 Ti Twin X2 6GB GDDR6 192-bit Gaming Graphics C: Rs   20,900 - MD Computers
+         Galax GeForce GTX 1660 Ti (1-Click OC) 6GB GDDR6 192-bit Gaming Graphi: Rs   21,550 - MD Computers
          Inno3D Geforce GTX 1660 Ti Twin X2 6GB GDDR6 (N166T2-06D6-1710VA15)   : Rs   21,570 - IT Depot
          INNO3D GEFORCE GTX 1660 Ti TWIN X2 OC RGB 6GB GDDR6 192-bit Graphic Ca: Rs   21,730 - Prime ABGB
-         Zotac GAMING GeForce GTX 1660 Ti Twin Fan 6GB GDDR6 (ZT-T16610F-10L)  : Rs   22,405 - IT Depot
+         ZOTAC GAMING GEFORCE GTX 1660 Ti 6GB TWIN FAN GDDR6                   : Rs   22,000 - Vedant Computers
+         Zotac Gaming GeForce GTX 1660 Ti 6GB GDDR6 192-bit Gaming Graphics Car: Rs   22,199 - MD Computers
+         Zotac GAMING GeForce GTX 1660 Ti Twin Fan 6GB GDDR6 (ZT-T16610F-10L)  : Rs   22,455 - IT Depot
          MSI GeForce GTX 1660 Ti VENTUS XS 6G OC GDDR6                         : Rs   22,505 - IT Depot
          Colorful GeForce iGame GTX 1660 Ti Ultra 6GB GDDR6 192-bit Gaming Grap: Rs   22,999 - MD Computers
-         Zotac GAMING Geforce GTX 1660 Ti AMP Edition 6GB GDDR6......          : Rs   23,435 - IT Depot
+         Zotac GAMING Geforce GTX 1660 Ti AMP Edition 6GB GDDR6......          : Rs   23,175 - IT Depot
          Asus GeForce GTX 1660 Ti Phoenix 6GB GDDR6 192-bit Gaming Graphics Car: Rs   23,500 - MD Computers
          PNY GeForce GTX 1660 Ti XLR8 Gaming Overclocked Dual Fan 6GB GDDR6....: Rs   23,700 - IT Depot
          ZOTAC GAMING GeForce GTX 1660 Ti Twin Fan Graphic Card ZT-T16610F-10L : Rs   23,920 - Prime ABGB
@@ -187,6 +190,14 @@ GTX 1660 Ti
          Asus ROG Strix GeForce GTX 1660 Ti Advanced edition 6GB GDDR6......   : Rs   30,335 - IT Depot
 K420
          Pny Nvidia Quadro Pascal Series K420 2GB DDR3 128-bit Workstation Grap: Rs    7,100 - MD Computers
+NVIDIA Tesla
+         Supermicro NVIDIA Tesla T4 16GB GDDR6 PCIe 3.0– Passive Cooling, Singl: Rs  213,326 - Prime ABGB
+         Supermicro NVIDIA Tesla M10 32GB GDDR5 PCIE 3.0 – Passive Cooling ( vG: Rs  245,163 - Prime ABGB
+         Supermicro NVIDIA Tesla P40 24GB GDDR5 PCIe 3.0 – Passive Cooling     : Rs  602,538 - Prime ABGB
+         Supermicro NVIDIA Tesla V100 16GB CoWoS HBM2 PCIe 3.0 — Passive Coolin: Rs  768,782 - Prime ABGB
+         Supermicro NVIDIA Tesla V100 SXM2 16GB CoWoS HBM2, NVLink, Complete SY: Rs  768,782 - Prime ABGB
+         Supermicro NVIDIA Tesla V100 SXM2 32GB CoWoS HBM2, NVLink  Complete SY: Rs  868,887 - Prime ABGB
+         Supermicro NVIDIA Tesla V100 32GB CoWoS HBM2 PCIe 3.0 — Passive Coolin: Rs  868,887 - Prime ABGB
 NVS510
          Pny Nvidia Quadro Pascal Series NVS510 2GB DDR3 128-bit Workstation Gr: Rs   29,299 - MD Computers
 P1000
@@ -215,13 +226,12 @@ RTX 2060
          GALAX GeForce RTX 2060 (1-Click OC) 6GB GDDR6 Graphic Card 26NRL7HPX7O: Rs   26,000 - Prime ABGB
          GALAX GeForce RTX 2060 Ex (1-Click OC) RGB 6GB GDDR6 Graphic Card     : Rs   26,000 - Prime ABGB
          Zotac Gaming GeForce RTX 2060 6GB GDDR6 192-bit Gaming Graphics Card, : Rs   26,500 - MD Computers
+         Zotac Gaming GeForce RTX 2060 6GB GDDR6 (ZT-T20600H-10M)              : Rs   26,780 - IT Depot
          ASUS RTX 2060 Phoenix 6GB PH-RTX2060-6G Graphic Card                  : Rs   26,999 - Prime ABGB
          Zotac Gaming GeForce RTX 2060 Twin Fan 6GB GDDR6 (ZT-T20600F-10M)     : Rs   27,295 - IT Depot
-         Zotac Gaming GeForce RTX 2060 6GB GDDR6 (ZT-T20600H-10M)              : Rs   27,295 - IT Depot
          ZOTAC GAMING GeForce RTX 2060 Twin Fan 6GB GDDR6 Graphic Card ZT-T2060: Rs   28,200 - Prime ABGB
          ZOTAC GAMING GeForce RTX 2060 AMP 6GB GDDR6 Graphic Card ZT-T20600D-10: Rs   28,299 - Prime ABGB
          Zotac Gaming GeForce RTX 2060 AMP 6GB GDDR6 (ZT-T20600D-10M)          : Rs   28,325 - IT Depot
-         MSI GeForce RTX 2060 VENTUS XS 6G OC Graphic Card                     : Rs   28,700 - Prime ABGB
          Gigabyte GeForce RTX™ 2060 WINDFORCE OC 6G Graphic Card GV-N2060WF2OC-: Rs   29,769 - Prime ABGB
          GALAX GEFORCE RTX 2060 1-CLICK OC 6GB GDDR6                           : Rs   29,790 - Vedant Computers
          Asus Phoenix GeForce RTX 2060 6GB GDDR6 (PH-RTX2060-6G)               : Rs   31,220 - IT Depot
@@ -244,12 +254,13 @@ RTX 2060 Super
          Galax GeForce RTX 2060 Super Ex (1-Click OC) 8GB GDDR6 256-bit Gaming : Rs   31,500 - MD Computers
          Inno3d GeForce RTX 2060 Super Twin X2 OC 8GB GDDR6 256-bit Gaming Grap: Rs   31,799 - MD Computers
          Galax GeForce RTX 2060 Super Ex (1-Click OC) 8GB GDDR6 (26ISL6MPX2EX) : Rs   31,930 - IT Depot
+         Zotac Gaming GeForce RTX 2060 Super MINI 8GB GDDR6 (ZT-T20610E-10M)   : Rs   32,445 - IT Depot
          Colorful GeForce RTX 2060 Super Limited-V 8GB GDDR6 256-bit Gaming Gra: Rs   32,999 - MD Computers
+         ZOTAC GEFORCE RTX 2060 Super MINI 8GB GDDR6                           : Rs   33,200 - Vedant Computers
          ZOTAC GAMING GeForce RTX 2060 Super MINI 8GB GDDR6 256-bit 14Gbps Gami: Rs   33,299 - MD Computers
-         ZOTAC GEFORCE RTX 2060 Super MINI 8GB GDDR6                           : Rs   33,300 - Vedant Computers
          Gigabyte GeForce RTX 2060 Super Windforce OC 8GB GDDR6 256-bit Gaming : Rs   33,500 - MD Computers
-         Zotac Gaming GeForce RTX 2060 Super MINI 8GB GDDR6 (ZT-T20610E-10M)   : Rs   33,785 - IT Depot
          MSI GEFORCE RTX 2060 Super VENTUS OC 8GB GDDR6                        : Rs   33,900 - Vedant Computers
+         ASUS DUAL GEFORCE RTX 2060 Super EVO ADVANCED EDITION 8GB GDDR6       : Rs   33,999 - Vedant Computers
          GIGABYTE GEFORCE RTX 2060 Super WINDFORCE OC 8G GDDR6                 : Rs   34,000 - Vedant Computers
          GALAX GeForce RTX 2060 Super Ex (1-Click OC) Graphic Card 26ISL6MPX2EX: Rs   34,299 - Prime ABGB
          INNO3D GeForce RTX 2060 Super ICHILL X3 Ultra 8GB GDDR6 Gaming Graphic: Rs   34,450 - Prime ABGB
@@ -259,7 +270,6 @@ RTX 2060 Super
          ASUS DUAL GEFORCE RTX 2060 Super EVO OC 8GB GDDR6                     : Rs   35,000 - Vedant Computers
          MSI GeForce RTX 2060 Super VENTUS OC Graphic Card                     : Rs   35,648 - Prime ABGB
          MSI GeForce RTX 2060 Super Ventus OC 8GB GDDR6                        : Rs   35,695 - IT Depot
-         ASUS DUAL GEFORCE RTX 2060 Super EVO ADVANCED EDITION 8GB GDDR6       : Rs   35,800 - Vedant Computers
          MSI GeForce RTX 2060 Super ARMOR OC Graphics Card                     : Rs   35,931 - Prime ABGB
          Inno3D Geforce RTX 2060 Super iChill X3 Ultra 8GB GDDR6......         : Rs   36,380 - IT Depot
          ZOTAC GEFORCE RTX 2060 Super AMP Graphic Card ZT-T20610D-10P          : Rs   36,465 - Prime ABGB
@@ -272,10 +282,10 @@ RTX 2060 Super
          MSI GEFORCE RTX 2060 Super GAMING X 8GB GDDR6                         : Rs   36,999 - Vedant Computers
          Asus GeForce Dual RTX 2060 Super EVO Advanced Edition 8GB GDDR6 256-bi: Rs   37,000 - MD Computers
          MSI GeForce RTX 2060 Super GAMING X 8GB GDDR6                         : Rs   37,070 - IT Depot
-         Zotac Gaming GeForce RTX 2060 Super AMP Extreme 8GB GDDR6......       : Rs   37,595 - IT Depot
          Gigabyte Aorus GeForce RTX 2060 Super 8GB GDDR6 256-bit Gaming Graphic: Rs   37,600 - MD Computers
          Asus Dual GeForce RTX 2060 Super EVO OC Edition 8GB GDDR6......       : Rs   37,685 - IT Depot
          ASUS Dual GeForce RTX 2060 Super EVO Over Clocked Edition 8GB GDDR6 Gr: Rs   37,792 - Prime ABGB
+         Zotac Gaming GeForce RTX 2060 Super AMP Extreme 8GB GDDR6......       : Rs   37,905 - IT Depot
          PNY GeForce RTX 2060 Super Dual Fan XLR8 Gaming Overclocked 8GB...... : Rs   38,165 - IT Depot
          ZOTAC GEFORCE RTX 2060 Super AMP EXTREME Graphic Card ZT-T20610B-10P  : Rs   38,796 - Prime ABGB
          Asus ROG Strix GeForce RTX 2060 Super Advanced Edition 8GB GDDR6......: Rs   40,295 - IT Depot
@@ -283,13 +293,15 @@ RTX 2060 Super
          ASUS ROG Strix GeForce RTX 2060 Super Advanced Edition 8GB GDDR6 Graph: Rs   40,633 - Prime ABGB
          ASUS ROG Strix GeForce RTX 2060 Super Over Clocked Edition 8GB GDDR6 G: Rs   41,105 - Prime ABGB
          Asus ROG Strix GeForce RTX 2060 Super OC edition 8GB GDDR6......      : Rs   42,040 - IT Depot
+         Asus GeForce Rog Strix RTX 2060 Super OC Edition 8GB GDDR6 256-bit Gam: Rs   43,280 - MD Computers
 RTX 2070
-         ASUS GEFORCE RTX TURBO RTX 2070 8GB GDDR6                             : Rs   35,990 - Vedant Computers
+         ASUS GEFORCE RTX TURBO RTX 2070 8GB GDDR6                             : Rs   31,990 - Vedant Computers
+         ASUS GEFORCE RTX DUAL 2070 ADVANCED 8GB GDDR6                         : Rs   35,990 - Vedant Computers
          INNO3D GEFORCE RTX 2070 GAMING OC X2 8GB GDDR6                        : Rs   36,450 - Vedant Computers
          GALAX GeForce® RTX 2070 8GB GDDR6 White Mini (1-Click OC) Graphic Card: Rs   38,000 - Prime ABGB
          Inno3d GeForce RTX 2070 Twin X2 8GB GDDR6 Gaming Graphics Card N20702-: Rs   38,500 - Prime ABGB
-         ASUS GEFORCE RTX DUAL 2070 ADVANCED 8GB GDDR6                         : Rs   39,990 - Vedant Computers
          GALAX GeForce® RTX 2070 Ex (1-Click OC) 8GB GDDR6 Graphic Card        : Rs   41,080 - Prime ABGB
+         Zotac Gaming Geforce RTX 2070 Mini 8GB GDDR6 256-bit Gaming Graphics C: Rs   41,500 - MD Computers
          ZOTAC GAMING GeForce RTX 2070 Blower Graphic Card ZT-T20700A-10P      : Rs   41,600 - Prime ABGB
          ZOTAC GAMING GEFORCE RTX 2070 MINI 8GB GDDR6                          : Rs   41,999 - Vedant Computers
          MSI GeForce RTX 2070 VENTUS 8G Graphic Card                           : Rs   42,746 - Prime ABGB
@@ -318,28 +330,28 @@ RTX 2070 Super
          INNO3D GEFORCE RTX 2070 Super TWIN X2 OC 8GB GDDR6                    : Rs   39,700 - Vedant Computers
          Inno3d GeForce RTX 2070 Super Twin X2 OC 8GB GDDR6 256-bit Gaming Grap: Rs   39,999 - MD Computers
          INNO3D GEFORCE RTX 2070 Super TWIN X2 OC Graphic Card N207S2-08D6X-118: Rs   40,280 - Prime ABGB
-         Galax GeForce RTX 2070 Super Ex (1-Click OC) 8GB GDDR6 256-bit Gaming : Rs   41,000 - MD Computers
          GALAX GeForce RTX 2070 Super Ex (1-Click OC) Graphic Card 27ISL6MDU9EX: Rs   41,080 - Prime ABGB
-         Zotac Gaming GeForce RTX 2070 Super Mini 8GB GDDR6 (ZT-T20710E-10M)   : Rs   41,200 - IT Depot
          Galax GeForce RTX 2070 Super Ex (1-Click OC) 8GB GDDR6 (27ISL6MDU9EX) : Rs   41,460 - IT Depot
          GALAX GeForce RTX 2070 Super Ex Gamer Black Edition 8GB GDDR6 256-bit : Rs   41,499 - Prime ABGB
          Galax GeForce RTX 2070 Super Ex Gamer Black Edition (1-Click OC) 8GB G: Rs   41,500 - MD Computers
+         Zotac Gaming GeForce RTX 2070 Super Mini 8GB GDDR6 (ZT-T20710E-10M)   : Rs   41,510 - IT Depot
          ZOTAC GAMING GeForce RTX 2070 Super MINI 8GB GDDR6 256-bit 14Gbps Gami: Rs   41,650 - MD Computers
          ZOTAC GAMING GEFORCE RTX 2070 Super MINI 8GB GDDR6                    : Rs   41,700 - Vedant Computers
          Inno3D Geforce RTX 2070 Super Twin X2 OC 8GB GDDR6......              : Rs   41,960 - IT Depot
+         Zotac Gaming GeForce RTX 2070 Super Twin Fan 8GB GDDR6......          : Rs   42,230 - IT Depot
          Colorful GeForce RTX 2070 Super 8GB GDDR6 256-bit Gaming Graphics Card: Rs   42,300 - MD Computers
          INNO3D GEFORCE RTX 2070 Super GAMING OC X2 8GB GDDR6 256-bit Graphic C: Rs   42,400 - Prime ABGB
          GALAX GEFORCE RTX 2070 Super Ex (1-CLICK OC) 8GB GDDR6                : Rs   42,500 - Vedant Computers
          ZOTAC GAMING GEFORCE RTX 2070 Super TWIN FAN 8GB GDDR6                : Rs   42,700 - Vedant Computers
-         Zotac Gaming GeForce RTX 2070 Super Twin Fan 8GB GDDR6......          : Rs   42,745 - IT Depot
+         ZOTAC GAMING GeForce RTX 2070 Super Twin Fan 8GB GDDR6 256-bit 14Gbps : Rs   42,999 - MD Computers
          Inno3d GeForce RTX 2070 Super Gaming OC X2 8GB GDDR6 256-bit Gaming Gr: Rs   43,000 - MD Computers
-         Zotac Gaming GeForce RTX 2070 Super AMP 8GB GDDR6 (ZT-T20710D-10P)    : Rs   43,775 - IT Depot
          Gigabyte GeForce RTX 2070 Super Windforce OC 8GB GDDR6 256-bit Gaming : Rs   43,999 - MD Computers
-         ZOTAC GAMING GeForce RTX 2070 Super AMP 8GB GDDR6 256-bit 14Gbps Gamin: Rs   43,999 - MD Computers
          Msi GeForce RTX 2070 Super Ventus OC 8GB GDDR6 256-bit Gaming Graphics: Rs   44,000 - MD Computers
-         Zotac Gaming GeForce RTX 2070 Super AMP Extreme 8GB GDDR6......       : Rs   44,805 - IT Depot
+         Zotac Gaming GeForce RTX 2070 Super AMP 8GB GDDR6 (ZT-T20710D-10P)    : Rs   44,290 - IT Depot
+         ZOTAC GAMING GeForce RTX 2070 Super AMP 8GB GDDR6 256-bit 14Gbps Gamin: Rs   44,499 - MD Computers
          MSI GEFORCE RTX 2070 Super VENTUS OC 8GB GDDR6                        : Rs   44,900 - Vedant Computers
          MSI GeForce RTX 2070 Super VENTUS OC 8GB GDDR6                        : Rs   44,970 - IT Depot
+         ZOTAC GAMING GEFORCE RTX 2070 Super AMP EXTREME 8GB GDDR6             : Rs   45,000 - Vedant Computers
          INNO3D GEFORCE RTX 2070 Super ICHILL X3 ULTRA 8GB GDDR6 256-bit Graphi: Rs   45,050 - Prime ABGB
          GIGABYTE GEFORCE RTX 2070 Super™ WINDFORCE OC 8G GDDR6                : Rs   45,350 - Vedant Computers
          MSI GeForce RTX 2070 Super VENTUS OC Graphic Card                     : Rs   45,654 - Prime ABGB
@@ -348,9 +360,11 @@ RTX 2070 Super
          ZOTAC GAMING GeForce RTX 2070 Super MINI 8GB GDDR6 Gaming Graphics Car: Rs   45,999 - Prime ABGB
          Asus GeForce RTX 2070 Super Dual EVO Advanced Edition 8GB GDDR6 256-bi: Rs   46,100 - MD Computers
          INNO3D GEFORCE RTX 2070 Super ICHILL BLACK 8GB GDDR6 256-bit Graphic C: Rs   46,110 - Prime ABGB
+         Zotac Gaming GeForce RTX 2070 Super AMP Extreme 8GB GDDR6......       : Rs   46,350 - IT Depot
          Gigabyte GeForce RTX 2070 Super Gaming OC 8GB GDDR6 (GV-N207SGAMING...: Rs   46,490 - IT Depot
          PNY GeForce RTX 2070 Super Triple Fan XLR8 Gaming Overclocked 8GB.....: Rs   46,790 - IT Depot
          Asus Dual GeForce RTX 2070 Super EVO OC Edition 8GB GDDR6......       : Rs   46,985 - IT Depot
+         ZOTAC GAMING GeForce RTX 2070 Super AMP Extreme 8GB GDDR6 256-bit 14Gb: Rs   46,999 - MD Computers
          ASUS DUAL RTX 2070 Super EVO ADVANCED DUAL-RTX2070S-A8G-EVO Graphic Ca: Rs   48,199 - Prime ABGB
          MSI GeForce RTX 2070 Super Gaming X Trio 8GB GDDR6                    : Rs   49,830 - IT Depot
          Asus Dual GeForce RTX 2070 Super EVO Advanced edition 8GB GDDR6...... : Rs   50,865 - IT Depot
@@ -359,6 +373,7 @@ RTX 2070 Super
          MSI GeForce RTX 2070 Super GAMING X TRIO Graphic Card                 : Rs   52,199 - Prime ABGB
          Asus ROG Strix GeForce RTX 2070 Super Advanced Edition 8GB GDDR6......: Rs   52,500 - IT Depot
          Asus GeForce Rog Strix RTX 2070 Super Advanced Edition 8GB GDDR6 256-b: Rs   52,899 - MD Computers
+         ASUS ROG STRIX GEFORCE RTX 2070 Super ADVANCED EDITION 8GB GDDR6      : Rs   52,999 - Vedant Computers
          ASUS ROG Strix GeForce RTX 2070 Super Advanced Edition 8GB GDDR6 Graph: Rs   54,929 - Prime ABGB
          GALAX GeForce RTX 2070 Super Work The Frames Edition 8GB GDDR6        : Rs   55,105 - IT Depot
 RTX 2080
@@ -403,22 +418,23 @@ RTX 2080 Super
          Galax GeForce RTX 2080 Super Ex (1-Click OC) 8GB GDDR6 256-bit Gaming : Rs   59,999 - MD Computers
          ZOTAC GEFORCE RTX 2080 Super TWIN FAN Graphic Card ZT-T20820F-10P     : Rs   59,999 - Prime ABGB
          ZOTAC GAMING GEFORCE RTX 2080 Super TWIN FAN 8GB GDDR6                : Rs   59,999 - Vedant Computers
-         Zotac Gaming GeForce RTX 2080 Super Twin Fan 8GB GDDR6......          : Rs   60,255 - IT Depot
          Inno3D Geforce RTX 2080 Super Twin X2 OC 8GB GDDR6                    : Rs   60,540 - IT Depot
          GALAX GEFORCE RTX 2080 Super Ex (1-CLICK OC) 8GB GDDR6                : Rs   60,700 - Vedant Computers
+         Zotac Gaming GeForce RTX 2080 Super Twin Fan 8GB GDDR6......          : Rs   60,770 - IT Depot
          GALAX GeForce RTX 2080 Super Ex (1-Click OC) Graphic Card 28NSL6UCU9EN: Rs   60,840 - Prime ABGB
          INNO3D GeForce RTX 2080 Super Twin X2 OC 8GB GDDR6 Gaming Graphics Car: Rs   61,215 - Prime ABGB
          GALAX GeForce RTX 2080 Super Ex (1-Click OC) 8GB GDDR6 (28ISL6MDU9EX) : Rs   62,830 - IT Depot
          ZOTAC GAMING GeForce RTX 2080 Super AMP 8GB GDDR6 256-bit 15.5Gbps Gam: Rs   63,199 - MD Computers
          ZOTAC GAMING GEFORCE RTX 2080 Super AMP 8GB GDDR6                     : Rs   63,400 - Vedant Computers
-         Zotac Gaming GeForce RTX 2080 Super AMP 8GB GDDR6 (ZT-T20820D-10P)    : Rs   63,860 - IT Depot
+         Zotac Gaming GeForce RTX 2080 Super AMP 8GB GDDR6 (ZT-T20820D-10P)    : Rs   64,890 - IT Depot
          PNY GeForce RTX 2080 Super Blower Design 8GB GDDR6 (VCG20808SBLMPB)   : Rs   65,025 - IT Depot
-         Zotac Gaming GeForce RTX 2080 Super AMP Extreme 8GB GDDR6......       : Rs   65,920 - IT Depot
          ZOTAC GEFORCE RTX 2080 Super AMP Graphic Card ZT-T20820D-10P          : Rs   66,049 - Prime ABGB
          INNO3D GEFORCE RTX 2080 Super ICHILL BLACK 8GB GDDR6 256-bit Graphic C: Rs   66,250 - Prime ABGB
-         Gigabyte GeForce RTX 2080 Super Gaming OC 8GB GDDR6 256-Bit Gaming Gra: Rs   66,799 - MD Computers
+         Zotac Gaming GeForce RTX 2080 Super AMP Extreme 8GB GDDR6......       : Rs   66,950 - IT Depot
          Asus Dual GeForce RTX 2080 Super EVO OC Edition 8GB GDDR6......       : Rs   67,135 - IT Depot
          PNY GeForce RTX 2080 Super Triple Fan XLR8 Gaming Overclocked 8GB.....: Rs   67,455 - IT Depot
+         Gigabyte GeForce RTX 2080 Super Gaming OC 8GB GDDR6 256-Bit Gaming Gra: Rs   68,000 - MD Computers
+         MSI GEFORCE RTX 2080 Super GAMING X TRIO 8GB GDDR6                    : Rs   68,099 - Vedant Computers
          ASUS GeForce Dual RTX 2080 Super EVO OC Edition 8GB GDDR6 256-bit Gami: Rs   69,200 - Prime ABGB
          MSI GeForce RTX 2080 Super Gaming X Trio 8GB GDDR6                    : Rs   69,280 - IT Depot
          Asus ROG Strix GeForce RTX 2080 Super Advanced Edition 8GB GDDR6......: Rs   70,135 - IT Depot
@@ -431,18 +447,18 @@ RTX 2080 Ti
          Inno3d GeForce RTX 2080 Ti Twin X2 11GB Gaming Graphic Card N208T2-11D: Rs   83,740 - Prime ABGB
          INNO3D GEFORCE RTX 2080 Ti JET 11GB Gaming Graphic Card N208T1-11D6-11: Rs   83,740 - Prime ABGB
          Inno3d GeForce RTX 2080 Ti Twin X2 11GB GDDR6 352-bit Gaming Graphics : Rs   84,000 - MD Computers
-         Zotac Gaming GeForce RTX 2080 Ti Twin Fan 11GB GDDR6 (ZT-T20810G-10P) : Rs   84,460 - IT Depot
          Inno3D GeForce RTX 2080 Ti Jet 11GB GDDR6                             : Rs   84,700 - IT Depot
          Inno3d GeForce RTX 2080 Ti TWIN X2 11GB GDDR6                         : Rs   85,320 - IT Depot
          Galax GeForce RTX 2080 Ti SG (1 Click OC) V2 11GB GDDR6 352-bit Gaming: Rs   85,499 - MD Computers
          INNO3D Gaming GeForce RTX 2080 Ti OC X3 11GB GDDR6 N208T3-11D6X-1150VA: Rs   85,860 - Prime ABGB
-         Zotac Gaming GeForce RTX 2080 Ti Blower 11GB GDDR6 (ZT-T20810A-10P)   : Rs   86,520 - IT Depot
+         Zotac Gaming GeForce RTX 2080 Ti Twin Fan 11GB GDDR6 (ZT-T20810G-10P) : Rs   86,520 - IT Depot
          GALAX GeForce RTX 2080Ti Dual Black(1-Click OC) 11GB GDDR6......      : Rs   86,520 - IT Depot
          ZOTAC GAMING GeForce RTX 2080 Ti Twin Fan Graphic Card ZT-T20810G-10P : Rs   87,600 - Prime ABGB
          INNO3D GEFORCE RTX 2080 Ti GAMING OC X3 11GB GDDR6                    : Rs   88,900 - Vedant Computers
          Inno3d GeForce RTX 2080 Ti X3 Gaming OC (N208T3-11D6X-1150VA24)       : Rs   90,030 - IT Depot
          INNO3D GEFORCE RTX 2080 Ti TWIN X2 11GB GDDR6                         : Rs   90,500 - Vedant Computers
          MSI Geforce RTX 2080 Ti Ventus GP 11GB GDDR6                          : Rs   90,545 - IT Depot
+         Zotac Gaming GeForce RTX 2080 Ti Blower 11GB GDDR6 (ZT-T20810A-10P)   : Rs   90,640 - IT Depot
          MSI GEFORCE RTX 2080 Ti VENTUS GP 11 GB GDDR6                         : Rs   91,500 - Vedant Computers
          PNY GeForce RTX 2080 Ti Blower Design 11GB GDDR6 (VCG2080T11BLMPB)    : Rs   92,370 - IT Depot
          INNO3D GEFORCE RTX 2080 Ti X2 OC 11GB GDDR6                           : Rs   92,500 - Vedant Computers
@@ -454,6 +470,7 @@ RTX 2080 Ti
          ZOTAC GeForce RTX 2080 Ti Triple Fan GAMING Graphic Card ZT-T20810F-10: Rs  105,990 - Prime ABGB
          MSI GeForce RTX 2080 Ti GAMING TRIO 11GB GDDR6                        : Rs  106,345 - IT Depot
          MSI GEFORCE RTX 2080 Ti GAMING TRIO 11GB GDDR6                        : Rs  106,520 - Vedant Computers
+         MSI GEFORCE RTX 2080 Ti GAMING X TRIO 11GB GDDR6                      : Rs  106,699 - Vedant Computers
          MSI Geforce RTX 2080 Ti Gaming X Trio 11GB GDDR6                      : Rs  107,260 - IT Depot
          Msi GeForce RTX 2080 Ti Gaming X Trio 11GB GDDR6 352-bit Gaming Graphi: Rs  107,300 - MD Computers
          ZOTAC GeForce RTX 2080 Ti AMP! Edition GAMING Graphic Card ZT-T20810D-: Rs  107,640 - Prime ABGB
@@ -463,7 +480,6 @@ RTX 2080 Ti
          Gigabyte GeForce® RTX 2080 Ti GAMING OC 11G Graphic Card GV-N208TWF3 O: Rs  109,499 - Prime ABGB
          Asus Turbo GeForce RTX 2080 Ti 11GB GDDR6 (TURBO-RTX2080TI-11G)       : Rs  109,530 - IT Depot
          INNO3D GEFORCE RTX 2080 Ti ICHILL BLACK 11GB GDDR6 352-bit Graphic Car: Rs  111,300 - Prime ABGB
-         Gigabyte GeForce RTX 2080 Ti Windforce OC 11GB GDDR6 352-bit Gaming Gr: Rs  111,500 - MD Computers
          Asus Dual GeForce RTX 2080 Ti OC Edition 11GB GDDR6......             : Rs  112,535 - IT Depot
          GALAX GeForce RTX 2080 Ti HOF 11GB GDDR6 (28IULBUCV6DH)               : Rs  113,300 - IT Depot
          ASUS GeForce RTX 2080 Ti 11G Turbo Edition GDDR6 Graphics Card TURBO-R: Rs  114,000 - Prime ABGB
@@ -487,8 +503,8 @@ RX 560
 RX 570
          PowerColor Red Dragon Radeon RX 570 4GB GDDR5 (AXRX 570 4GBD5-3DHD-OC): Rs   10,555 - IT Depot
          Gigabyte Radeon RX 570 Gaming 4G Graphic Card GV-RX570GAMING-4GD      : Rs   11,550 - Prime ABGB
+         Asus Radeon Rog Strix RX 570 4GB GDDR5 256-bit Gaming Graphics Card   : Rs   11,999 - MD Computers
          ASUS ROG Strix RX570 4GB GDDR5 Gaming Graphic Card ROG-STRIX-RX570-4G-: Rs   12,500 - Prime ABGB
-         Asus Radeon Rog Strix RX 570 4GB GDDR5 256-bit Gaming Graphics Card   : Rs   12,999 - MD Computers
          PowerColor RED DEVIL Radeon RX 570 4GB Graphic Card AXRX 570 4GBD5-3DH: Rs   32,999 - Prime ABGB
 RX 5700
          Sapphire Radeon RX 5700 8GB GDDR6 256-bit Gaming Graphics Card        : Rs   29,499 - MD Computers
@@ -516,7 +532,6 @@ RX 5700 XT
          Asus TUF Gaming X3 Radeon RX 5700 XT OC Edition 8GB GDDR6......       : Rs   37,090 - IT Depot
          Asus Radeon RX 5700 XT 8GB GDDR6 (RX5700XT-8G)                        : Rs   37,680 - IT Depot
          MSI Radeon RX 5700 XT 8G GDDR6 256-Bit Gaming Graphics Card           : Rs   37,899 - Prime ABGB
-         SAPPHIRE RADEON RX 5700 XT PULSE 8GB GDDR6                            : Rs   37,999 - Vedant Computers
          Msi Radeon RX 5700 XT Evoke OC 8GB GDDR6 256-bit Gaming Graphics Card : Rs   38,100 - MD Computers
          MSI Radeon RX 5700 XT MECH OC Gaming Graphic Card                     : Rs   38,199 - Prime ABGB
          MSI AMD RADEON RX 5700 XT EVOKE OC 8GB GDDR6                          : Rs   38,520 - Vedant Computers
@@ -530,6 +545,7 @@ RX 5700 XT
          MSI Radeon RX 5700 XT EVOKE 8GB GDDR6                                 : Rs   43,285 - IT Depot
          Asus ROG Strix Radeon RX 5700 XT OC Edition 8GB GDDR6......           : Rs   43,945 - IT Depot
 RX 580
+         ASUS RADEON RX 580 4GB DUAL EDITION GDDR5                             : Rs   11,999 - Vedant Computers
          MSI RADEON RX 580 ARMOR 8GB GDDR5                                     : Rs   15,199 - Vedant Computers
          SAPPHIRE PULSE RADEON RX 580 8GB GDDR5                                : Rs   15,790 - Vedant Computers
          Msi Radeon RX 580 Armor OC 8GB GDDR5 256-bit Gaming Graphics Card     : Rs   15,999 - MD Computers
@@ -568,10 +584,11 @@ GTX 1070 Ti         - Min: Rs   28,499 ; Max: Rs   45,929
 GTX 1080            - Min: Rs   50,180 ; Max: Rs   50,180
 GTX 1080 Ti         - Min: Rs   66,399 ; Max: Rs   66,399
 GTX 1650            - Min: Rs   10,812 ; Max: Rs   15,615
-GTX 1660            - Min: Rs   16,199 ; Max: Rs   21,040
+GTX 1660            - Min: Rs   16,328 ; Max: Rs   21,040
 GTX 1660 Super      - Min: Rs   18,762 ; Max: Rs   24,999
 GTX 1660 Ti         - Min: Rs   20,882 ; Max: Rs   30,335
 K420                - Min: Rs    7,100 ; Max: Rs    7,100
+NVIDIA Tesla        - Min: Rs  213,326 ; Max: Rs  868,887
 NVS510              - Min: Rs   29,299 ; Max: Rs   29,299
 P1000               - Min: Rs   26,499 ; Max: Rs   29,320
 P2000               - Min: Rs   33,999 ; Max: Rs   37,010
@@ -581,8 +598,8 @@ P600                - Min: Rs   15,150 ; Max: Rs   15,150
 P620                - Min: Rs   13,599 ; Max: Rs   13,599
 R5 230              - Min: Rs    2,699 ; Max: Rs    2,800
 RTX 2060            - Min: Rs   25,440 ; Max: Rs   47,547
-RTX 2060 Super      - Min: Rs   29,500 ; Max: Rs   42,040
-RTX 2070            - Min: Rs   35,990 ; Max: Rs   62,499
+RTX 2060 Super      - Min: Rs   29,500 ; Max: Rs   43,280
+RTX 2070            - Min: Rs   31,990 ; Max: Rs   62,499
 RTX 2070 Super      - Min: Rs   39,700 ; Max: Rs   55,105
 RTX 2080            - Min: Rs   49,999 ; Max: Rs   89,109
 RTX 2080 Super      - Min: Rs   58,149 ; Max: Rs   75,500
@@ -593,7 +610,7 @@ RX 560              - Min: Rs    7,450 ; Max: Rs   12,706
 RX 570              - Min: Rs   10,555 ; Max: Rs   32,999
 RX 5700             - Min: Rs   29,499 ; Max: Rs   40,025
 RX 5700 XT          - Min: Rs   33,660 ; Max: Rs   43,945
-RX 580              - Min: Rs   15,199 ; Max: Rs   43,699
+RX 580              - Min: Rs   11,999 ; Max: Rs   43,699
 RX 590              - Min: Rs   16,999 ; Max: Rs   26,999
 RX Vega 64          - Min: Rs   39,999 ; Max: Rs   61,499
 Uncategorized       - Min: Rs    2,499 ; Max: Rs    5,335
