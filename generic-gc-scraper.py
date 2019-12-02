@@ -144,6 +144,7 @@ preferredGpuTypes = [
     'GTX 1660 Ti',
     'GTX 1660 Super',
     'GTX 1660',
+    'GTX 1650 Super',
     'GTX 1650',
     'RTX 2060'
 ]
