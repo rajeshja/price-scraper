@@ -87,7 +87,11 @@ def makeCacheableHttpCall(request):
     if useCache and cachedFile.is_file():
         responseContent = cachedFile.read_bytes()
     else:
-        responseContent = urllib.request.urlopen(request).read()
+        try:
+            responseContent = urllib.request.urlopen(request).read()
+        except Exception as e:
+            print(request.full_url)
+            print(e)
         cachedFile.write_bytes(responseContent)
     return responseContent
 
