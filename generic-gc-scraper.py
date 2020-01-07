@@ -123,6 +123,8 @@ gpuTypes = [
     { 'name': "RTX 2080" },
     { 'name': "RX 5700 XT" },
     { 'name': "RX 5700" },
+    { 'name': "RX 5600 XT" },
+    { 'name': "RX 5600" },
     { 'name': "RX 5500 XT" },
     { 'name': "RX 5500" },
     { 'name': "RX 470" },
@@ -153,6 +155,8 @@ preferredGpuTypes = [
     'GTX 1650 Super',
     'GTX 1650',
     'RTX 2060',
+    'RX 5600 XT',
+    'RX 5600'
     'RX 5500 XT',
     'RX 5500'
 ]
