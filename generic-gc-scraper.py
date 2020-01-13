@@ -156,7 +156,7 @@ preferredGpuTypes = [
     'GTX 1650',
     'RTX 2060',
     'RX 5600 XT',
-    'RX 5600'
+    'RX 5600',
     'RX 5500 XT',
     'RX 5500'
 ]
