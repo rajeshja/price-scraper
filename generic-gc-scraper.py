@@ -80,7 +80,9 @@ def makeCacheableHttpCall(request):
     urlhash = hashlib.md5(request.full_url.encode("utf-8")).hexdigest()
     posthash = ''
     if request.data is not None:
-        posthash = hashlib.md5(request.data).hexdigest()
+        commonRequestData = request.data
+        commonRequestData.pop('User-Agent', None)
+        posthash = hashlib.md5(commonRequestData).hexdigest()
     pageId = urlhash + posthash
     # get from cache
     cachedFile = Path(f'cache/{pageId}')
